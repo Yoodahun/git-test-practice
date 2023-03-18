@@ -1,1 +1,1 @@
-revert.txt 추가
+revert.txt 변경
